@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsogramTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-29T16:38:34" hostname="LAPTOP-FDQSJABJ" time="0.025">
+  <properties/>
+  <testcase name="test[5: isogram(Alphabet) = false]" classname="IsogramTest" time="0.023"/>
+  <testcase name="test[6: isogram(alphAbet) = false]" classname="IsogramTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
